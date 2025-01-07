@@ -29,10 +29,9 @@ Each project explores different concepts in creative coding and animation.
 
 **Preview**:  
 
-![Animation](https://drive.google.com/file/d/1lofZNFZtJBxaNby_Je28EP4bL0ZUW93_/view?usp=drive_link)
+[Watch the animation here](https://drive.google.com/file/d/1lofZNFZtJBxaNby_Je28EP4bL0ZUW93_/view?usp=drive_link)
 
-[Image](<img width="632" alt="Hogwards-timekeeper" src="https://github.com/user-attachments/assets/e8aa6728-d0c0-42ef-93b8-cfcb4af6b4b0" />
-)
+![task_4_clock](https://github.com/user-attachments/assets/14ded386-e2a6-46f1-b255-edd6498ff5b9)
 
 
 
