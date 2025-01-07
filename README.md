@@ -24,4 +24,5 @@ Each project explores different concepts in creative coding and animation.
 ![task_2_animation_2](https://github.com/user-attachments/assets/93769f2e-0973-463f-b29d-1aa082c4187b)
 
 
+This project is developed using [Processing](https://processing.org/) and [Java](https://www.java.com/).
 
