@@ -21,7 +21,22 @@ Each project explores different concepts in creative coding and animation.
 
 [Watch the animation here](https://drive.google.com/file/d/1bZUQm9CE3B0QOt6AVrDE-pIN1c6e-B9C/view?usp=drive_link)
 
-![task_2_animation_2](https://github.com/user-attachments/assets/93769f2e-0973-463f-b29d-1aa082c4187b)
+![image](https://github.com/user-attachments/assets/93769f2e-0973-463f-b29d-1aa082c4187b)
+
+
+### 3. Hogwarts Timekeeper 
+**Description**: Clock animation inspired by Harry Potter. You can interact with using your mouse.  
+
+**Preview**:  
+
+![Animation](https://drive.google.com/file/d/1lofZNFZtJBxaNby_Je28EP4bL0ZUW93_/view?usp=drive_link)
+
+[Image](<img width="632" alt="Hogwards-timekeeper" src="https://github.com/user-attachments/assets/e8aa6728-d0c0-42ef-93b8-cfcb4af6b4b0" />
+)
+
+
+
+
 
 
 This project is developed using [Processing](https://processing.org/) and [Java](https://www.java.com/).
