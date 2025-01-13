@@ -36,9 +36,8 @@ Each project explores different concepts in creative coding and animation.
 The recursion adjusts with the horizontal mouse movement, while the branch length changes with the vertical movement.
 
 **Preview**:  
-![task_06_recursion](![task_6_recursion](https://github.com/user-attachments/assets/bdbea98e-5b29-458b-9330-92f88c89ea6c)
+![task_6_recursion](https://github.com/user-attachments/assets/d8f62274-2fdb-42fc-bdcd-4cf3b598c0e9)
 )
-
 
   
 
