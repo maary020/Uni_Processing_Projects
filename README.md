@@ -19,7 +19,6 @@ Each project explores different concepts in creative coding and animation.
 
 **Preview**:  
 
-[Watch the animation here](https://drive.google.com/file/d/1bZUQm9CE3B0QOt6AVrDE-pIN1c6e-B9C/view?usp=drive_link)
 
 ![image](https://github.com/user-attachments/assets/93769f2e-0973-463f-b29d-1aa082c4187b)
 
@@ -29,12 +28,19 @@ Each project explores different concepts in creative coding and animation.
 
 **Preview**:  
 
-[Watch the animation here](https://drive.google.com/file/d/1lofZNFZtJBxaNby_Je28EP4bL0ZUW93_/view?usp=drive_link)
-
 ![task_4_clock](https://github.com/user-attachments/assets/14ded386-e2a6-46f1-b255-edd6498ff5b9)
 
 
+### 3. Animated snowflake with twinkling stars on a dark blue background.r 
+**Description**:  This sketch creates a snowflake that changes its structure as you move your mouse. 
+The recursion adjusts with the horizontal mouse movement, while the branch length changes with the vertical movement.
 
+**Preview**:  
+![task_06_recursion](![task_6_recursion](https://github.com/user-attachments/assets/bdbea98e-5b29-458b-9330-92f88c89ea6c)
+)
+
+
+  
 
 
 
